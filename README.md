@@ -1,1 +1,1 @@
-This is my learning repo of Machine learning , Digital Image processing , where I upload my learning done via COLAB, Jupyter Notebook using python language.
+This is my learning repo on  Machine learning along with Generative Artificial Intelligence .
