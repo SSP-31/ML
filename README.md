@@ -1,1 +1,2 @@
-This is my learning repo on  Machine learning along with Generative Artificial Intelligence .
+This Repo consists of multiple files on the computer vision.
+1 file on the Spam detection in mails.
